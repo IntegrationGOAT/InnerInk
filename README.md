@@ -2,8 +2,8 @@
 
 # InnerInk
 
-> **Cross-platform journaling & emotional processing app**
-> A fully open-source project to help users reflect, check in, and process emotions with clean, distraction-free writing experiences across mobile and web.
+**Cross-platform journaling & emotional processing app**
+ A fully open-source project to help users reflect, check in, and process emotions with clean, distraction-free writing experiences across mobile and web.
 
 InnerInk is a journaling application designed to help users express their thoughts, track emotions, and build healthy writing habits through a simple, intuitive interface. The project includes Android, iOS, and web all in one repository — making it easy to develop, test, and deploy everywhere.
 
